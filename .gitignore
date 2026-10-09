@@ -1,0 +1,12 @@
+# Windows
+Thumbs.db
+desktop.ini
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# 编辑器临时文件
+*~
+*.tmp
+*.bak
